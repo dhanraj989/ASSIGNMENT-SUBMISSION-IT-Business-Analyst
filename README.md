@@ -47,6 +47,6 @@ Here are the steps to use LinkedIn's API:
 •	Register your application: You need to create an application on the LinkedIn Developer portal and get the necessary credentials (like Client ID and Client Secret).  
 •	Authentication: LinkedIn uses OAuth 2.0 for authentication. Your application needs to authenticate the user and get an access token.  
 •	Use the API: Once you have the access token, you can use LinkedIn's Messages API to send messages. The API requires the recipient's ID and the text of the message.  
-Please note that LinkedIn may have restrictions on automated messaging to prevent spam. It's important to respect these restrictions and use the API responsibly.  
-Additionally, there are third-party services like PhantomBuster and Reply that provide tools for automating LinkedIn messages. These tools can be easier to use but may come with their own terms of service.  
+Please note that LinkedIn may have restrictions on automated messaging to prevent spam. It's important to respect these restrictions and use the API responsibly.
+Additionally, there are third-party services like PhantomBuster and Reply that provide tools for automating LinkedIn messages. These tools can be easier to use but may come with their own terms of service.
 We should always remember that any activity must comply with LinkedIn's Professional Community Policies.  
